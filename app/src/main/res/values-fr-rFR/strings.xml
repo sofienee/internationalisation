@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">internationalisation</string>
+    <string name="toast">c\'est un toast</string>
+    <string name="hello_world">Bonjour tout le monde</string>
+    <string name="do_something">"faire quelque chose "</string>
+    <string name="TODO">TODO</string>
+</resources>
